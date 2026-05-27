@@ -1,0 +1,23 @@
+# Node / NestJS
+NestJS-BE/node_modules/
+NestJS-BE/dist/
+NestJS-BE/.env
+
+# Flutter
+Dart-UI/.dart_tool/
+Dart-UI/build/
+Dart-UI/.packages
+Dart-UI/.flutter-plugins
+Dart-UI/.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Upload runtime files
+NestJS-BE/uploads/*
+!NestJS-BE/uploads/.gitkeep
